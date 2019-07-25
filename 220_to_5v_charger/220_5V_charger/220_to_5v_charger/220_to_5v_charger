@@ -1,0 +1,18 @@
+Reference, Quantity, Value, Footprint, Datasheet, Mftr No, Supplier
+C2 ,1,"10uF","Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~","C0805S153K5RAC7800C0805S153K5RAC7800C0805S153K5RAC7800C0805S153K5RAC7800","C0805S153K5RAC7800"
+C3 ,1,"680uF","Capacitor_SMD:C_Elec_6.3x7.7","~"
+C4 ,1,"0.1uF","Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~"
+C5 ,1,"220uF","Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~"
+CP1 ,1,"220uF","Capacitor_SMD:C_Elec_5x5.8","~"
+CP2 ,1,"470uF","Capacitor_SMD:C_Elec_6.3x7.7","~"
+D1 ,1,"ABS10","Diode_SMD:Diode_Bridge_Diotec_ABS","https://diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf"
+D2 ,1,"D","Diode_SMD:D_SOD-323_HandSoldering","~"
+D3 ,1,"1N5820","Diode_THT:D_DO-201AD_P15.24mm_Horizontal","http://www.vishay.com/docs/88526/1n5820.pdf"
+F1 ,1,"Fuse","Fuse:Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open","~"
+H1 H2 ,2,"MountingHole","MountingHole:MountingHole_2mm","~"
+J1 ,1,"Screw_Terminal_01x02","2.54MM_Terminal_Blocks:39773-0002","~"
+J2 ,1,"USB_A","USB_TYPE_A:PRT-09011"," ~"
+L1 ,1,"33uH","Inductor_SMD:L_Bourns_SRR1260","~"
+RV1 ,1,"Varistor","Varistor:RV_Disc_D21.5mm_W6.1mm_P7.5mm","~"
+U1 ,1,"LM2596S-5","Package_TO_SOT_SMD:TO-263-5_TabPin3","http://www.ti.com/lit/ds/symlink/lm2596.pdf"
+U2 ,1,"T","Tranformer_EE22:Transformer_EE22",""

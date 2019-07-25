@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name USB_TYPE_A)(type KiCad)(uri /Users/mac/Documents/KiCad/220_to_5v_charger/lib_fp.pretty/USB_TYPE_A.pretty)(options "")(descr ""))
+  (lib (name Tranformer_EE22)(type KiCad)(uri /Users/mac/Documents/KiCad/220_to_5v_charger/lib_fp.pretty/Tranformer_EE22.pretty)(options "")(descr ""))
+  (lib (name FFKD_TERMINAL_BLOCKS)(type KiCad)(uri /Users/mac/Documents/KiCad/220_to_5v_charger/lib_fp.pretty/FFKD_TERMINAL_BLOCKS.pretty)(options "")(descr ""))
+  (lib (name 2.54MM_Terminal_Blocks)(type KiCad)(uri /Users/mac/Documents/KiCad/220_to_5v_charger/lib_fp.pretty/2.54MM_Terminal_Blocks.pretty)(options "")(descr ""))
+)
